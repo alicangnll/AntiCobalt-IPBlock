@@ -36,6 +36,7 @@ def shodan_cobalt(SHODAN, searchkey):
 
 
 
-arraysearch = ['product:"Cobalt Strike Beacon"', 'product:"Cobalt"']
-for search in arraysearch:
-    shodan_cobalt(API_KEY, search)
+while(True):
+    arraysearch = ['product:"Cobalt Strike Beacon"', 'product:"Cobalt"']
+    for search in arraysearch:
+        shodan_cobalt(API_KEY, search)
