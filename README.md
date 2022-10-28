@@ -1,5 +1,6 @@
 # AntiCobalt-IPBlock
-Anti-Cobalt IP Blocker via Shodan API
+Anti-Cobalt IP Blocker via Shodan API<br>
+Run in background, secure your system!
 <hr></hr>
 <h2>Installation</h2>
 <ul>
