@@ -3,7 +3,7 @@
 <h3>Installation</h3>
 <ul>
 <li>Get a Shodan API</li>
-<li>Install iptables to your Linux Server</li>
+<li>Install iptables package to your Linux Server</li>
 <li>pip install -r requirements.txt</li>
 <li>Edit API_KEY inside of anticobalt.py</li>
 <li>screen -dm bash -c 'python anticobalt.py'</li>
