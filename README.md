@@ -1,6 +1,5 @@
 <h1>Anti-Cobalt IP Blocker via Shodan API</h1>
 <h2>Run in background, secure your system!</h2>
-<hr></hr>
 <h3>Installation</h3>
 <ul>
 <li>Get a Shodan API</li>
